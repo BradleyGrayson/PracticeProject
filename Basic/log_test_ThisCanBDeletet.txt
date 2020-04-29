@@ -1,0 +1,14 @@
+2020-04-08 10:12:23,413 - logging模块.py - MainProcess - debug level
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - info level
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - warning level
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - error level
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - critical level
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - Calling 'funlog' function
+2020-04-08 10:12:23,414 - logging模块.py - MainProcess - Entering 'funlog' function
+2020-04-08 10:12:24,370 - logging模块.py - MainProcess - debug level
+2020-04-08 10:12:24,370 - logging模块.py - MainProcess - info level
+2020-04-08 10:12:24,370 - logging模块.py - MainProcess - warning level
+2020-04-08 10:12:24,374 - logging模块.py - MainProcess - error level
+2020-04-08 10:12:24,374 - logging模块.py - MainProcess - critical level
+2020-04-08 10:12:24,374 - logging模块.py - MainProcess - Calling 'funlog' function
+2020-04-08 10:12:24,374 - logging模块.py - MainProcess - Entering 'funlog' function
